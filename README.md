@@ -22,7 +22,7 @@ conda env create -f environment.yml
 The following line will install the *bananas* package in your environment if executed from the root directory.
 
 ```bash
-conda env create -f environment.yml
+python setup.py install
 ```
 
 Apart from pyTorch and python 3.6 (3.8 is not compatible), it will install other dependencies. In particular this code uses [mlflow](https://mlflow.org/) for experiment tracking. I wanted to try mlflow :)
