@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/claudio/Dropbox/udacity-drl/code/drlnd-p1-navigation/mlruns/0/9218b99d03d741309c4eb4eb7d1f5e56/artifacts
+end_time: 1584606429447
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+name: ''
+run_id: 9218b99d03d741309c4eb4eb7d1f5e56
+run_uuid: 9218b99d03d741309c4eb4eb7d1f5e56
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1584571002203
+status: 3
+tags: []
+user_id: claudio

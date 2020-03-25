@@ -1,0 +1,1 @@
+functools.partial(<function moving_average_cross at 0x11d1c8f28>, <bananas.agents.dqn_agent.DQN_Agent object at 0x11d2187b8>, 20, 100)
