@@ -136,5 +136,5 @@ dependencies:
     - werkzeug==1.0.0
     - widgetsnbextension==3.5.1
     - zipp==3.0.0
-prefix: /Users/claudio/anaconda3/envs/drlnd-p1-navigation
+
 
