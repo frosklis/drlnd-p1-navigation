@@ -63,7 +63,7 @@ param==1.9.3
 parso==0.6.1
 pexpect==4.8.0
 pickleshare==0.7.5
-Pillow==7.0.0
+Pillow==9.0.1
 plotly==4.5.4
 pluggy==0.13.1
 prometheus-client==0.7.1
